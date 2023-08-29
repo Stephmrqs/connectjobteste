@@ -5,6 +5,18 @@ CDN BOOTSTRAP:
 
 CSS: 
 
+/* NAVBAR */
+
+.box {
+    border-bottom: solid green 2px;
+}
+
+.t:hover {
+
+    color: #67bc48 !important;
+
+}
+
 /* RODAPÉ */
 
 #footer {
